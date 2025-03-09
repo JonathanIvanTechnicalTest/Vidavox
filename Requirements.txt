@@ -2,6 +2,6 @@ streamlit
 torch
 transformers
 faiss-cpu
-psycopg2
+psycopg2-binary
 pdfplumber
 langchain
